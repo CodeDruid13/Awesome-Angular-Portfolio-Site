@@ -5,6 +5,11 @@ A portfolio site modeled with Angular and typescript
 
 - Use upgrade guide
   [Migration Guide][upgrade].
+  
+ - Hosted on Firebase
+ [Hosting Guide][hosting].
+     
+  
 
 ![alt text](img/landing.png)
 
@@ -20,5 +25,6 @@ Angular is a development platform for building mobile and desktop web applicatio
 [quickstart]: https://angular.io/guide/quickstart
 [ng]: https://angular.io
 [upgrade]: https://update.angular.io/
+[hosting]: https://firebase.google.com/docs/hosting
 
 
